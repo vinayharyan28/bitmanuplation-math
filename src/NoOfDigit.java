@@ -1,4 +1,3 @@
-import javax.imageio.ImageTranscoder;
 
 public class NoOfDigit {
     public void numberOfDigit(){

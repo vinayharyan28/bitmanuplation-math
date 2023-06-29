@@ -11,7 +11,6 @@ public class MagicNumber {
             base = base * 5;
         }
         System.out.println(answer);
-
     }
 
 }
